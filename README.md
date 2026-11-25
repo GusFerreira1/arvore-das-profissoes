@@ -1,5 +1,5 @@
 # arvore-das-profissoes
-<img width="900" height="681" alt="image" src="https://github.com/user-attachments/assets/5664df21-e340-4b87-b9f7-95d4d6fb4aa3" />
+
 # 🌳 Árvore das Profissões e Impactos da IA
 
 Este repositório reúne o mapeamento das profissões da minha família ao longo de três gerações e uma análise sobre como a tecnologia e a Inteligência Artificial transformaram e ainda vão transformar três dessas áreas de atuação.
